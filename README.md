@@ -35,4 +35,4 @@ This test data is only for use during model training.
 13. Other.TrainData_shuffled Used to shuffle the training data.
 
 
-The dataset has been uploaded to the link. Please visit the link to download the required data.:https://reurl.cc/E69Gon
+The dataset has been uploaded to the Zendo. Please visit the link to download the required data.:https://reurl.cc/E69Gon
